@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205705837985",
+    "project_id": "message-a0d23",
+    "storage_bucket": "message-a0d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205705837985:android:9152969f8179b02f951fe0",
+        "android_client_info": {
+          "package_name": "com.eman.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205705837985-hdqf0r48hhkkde0f8dn1ng0v18qn3qhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChF3sceQ4YYY-aaUnmQpNcEO4M1fDSafw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205705837985-hdqf0r48hhkkde0f8dn1ng0v18qn3qhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
